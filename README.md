@@ -1,1 +1,1 @@
-# -zmir-Uygulamal-Veri-Bilimi-Bootcamp-Kodluyoruz
+# -İzmir-Uygulamal-Veri-Bilimi-Bootcamp-Kodluyoruz
